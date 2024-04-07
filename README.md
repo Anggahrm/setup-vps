@@ -4,4 +4,4 @@ AUTO INSTALL KEPERLUAN BOT WHATSAPP
 
 # PENGGUNAAN
 ```javascript
-curl https://github.com/Anggahrm/setup-vps -o setup.sh && bash setup.sh
+curl https://raw.githubusercontent.com/Anggahrm/setup-vps/main/setup.sh -o setup.sh && bash setup.sh
