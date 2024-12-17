@@ -4,7 +4,7 @@
 apt update && apt upgrade -y
 
 # Install necessary packages
-apt install -y imagemagick curl ffmpeg webp
+apt install -y imagemagick curl ffmpeg webp python3 python3-pip
 
 # Install Node.js LTS
 curl -fsSL https://deb.nodesource.com/setup_lts.x | bash - && \
